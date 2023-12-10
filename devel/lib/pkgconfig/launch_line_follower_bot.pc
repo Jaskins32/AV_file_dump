@@ -1,0 +1,8 @@
+prefix=/home/jasona/catkin_ws/devel
+
+Name: launch_line_follower_bot
+Description: Description of launch_line_follower_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
